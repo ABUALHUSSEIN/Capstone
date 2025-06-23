@@ -59,11 +59,7 @@ A multiple linear regression model was fitted with `ejection_fraction` as the de
 - `time`
 - `creatinine_phosphokinase`
 
-### 🔍 Key Metrics
 
-- Adjusted R²: ~0.025
-- p-value: 0.03778
-- Interpretation: Only `serum_sodium` showed statistical significance (p < 0.01)
 
 ---
 
